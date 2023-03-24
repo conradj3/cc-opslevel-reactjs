@@ -1,0 +1,9 @@
+{
+    "solution_name": "Project",
+    "project_description": "Project Description",
+    "owner": "Owner Name",
+    "team": "Team",
+    "_copy_without_render": [
+        "src"
+    ]
+}
